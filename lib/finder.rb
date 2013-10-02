@@ -1,11 +1,5 @@
 require 'debugger'
 
-# problem:
-# write a method that takes an array and a target number, x
-# return true if the sum of any two numbers in the array
-# is equal to x, false otherwise
-
-
 module ArrayAdder
 
   # naive solution
